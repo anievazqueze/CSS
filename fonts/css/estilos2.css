@@ -6,6 +6,12 @@ p { color: #555; }
 /* Solo los párrafos contenidos en #primero */
 #primero p { color: #336699; }
  
+#primero a { color: chartreuse;
+             font-size: 20px;
+             font-weight: bolder;
+
+}
+
 /* Todos los enlaces la pagina */
 a { color: #CC3300; }
  
